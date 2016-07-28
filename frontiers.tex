@@ -23,17 +23,20 @@
 
 
 \def\keyFont{\fontsize{8}{11}\helveticabold }
-\def\firstAuthorLast{Sample {et~al.}} %use et al only if is more than 1 author
-\def\Authors{First Author\,$^{1,*}$, Co-Author\,$^{2}$ and Co-Author\,$^2$}
+\def\firstAuthorLast{McFee {et~al.}} %use et al only if is more than 1 author
+\def\Authors{Brian McFee\,$^{1,3*}$, Oriol Nieto\,$^{2}$ and Juan Pablo Bello\,$^3$}
 % Affiliations should be keyed to the author's name with superscript numbers and be listed as follows: Laboratory, Institute, Department, Organization, City, State abbreviation (USA, Canada, Australia), and Country (without detailed address information such as city zip codes or street names).
 % If one of the authors has a change of address, list the new address below the correspondence details using a superscript symbol and use the same symbol to indicate the author in the author list.
-\def\Address{$^{1}$Laboratory X, Institute X, Department X, Organization X, City X , State XX (only USA, Canada and Australia), Country X \\
-$^{2}$Laboratory X, Institute X, Department X, Organization X, City X , State XX (only USA, Canada and Australia), Country X  }
+\def\Address{$^{1}$Center for Data Science, New York University, New York, NY, USA\\
+$^{2}$Pandora, Inc., Oakland, CA, USA\\
+$^{3}$Music and Audio Research Laboratory, Department of Music and Performing Arts Professions, New York University, New York, NY, USA}
 % The Corresponding Author should be marked with an asterisk
 % Provide the exact contact address (this time including street name and city zip code) and email of the corresponding author
-\def\corrAuthor{Corresponding Author}
-\def\corrAddress{Laboratory X, Institute X, Department X, Organization X, Street X, City X , State XX (only USA, Canada and Australia), Zip Code, X Country X}
-\def\corrEmail{email@uni.edu}
+\def\corrAuthor{Brian McFee}
+\def\corrAddress{Center for Data Science, New York University\\
+726 Broadway, 7th floor\\
+New York, NY, 10003, USA}
+\def\corrEmail{brian.mcfee@nyu.edu}
 
 
 
@@ -42,7 +45,7 @@ $^{2}$Laboratory X, Institute X, Department X, Organization X, City X , State XX
 \onecolumn
 \firstpage{1}
 
-\title[Running Title]{Article Title} 
+\title{Evaluating hierarchical structure annotations}
 
 \author[\firstAuthorLast ]{\Authors} %This field will be automatically populated
 \address{} %This field will be automatically populated
@@ -73,12 +76,11 @@ $^{2}$Laboratory X, Institute X, Department X, Organization X, City X , State XX
 
 %%% Leave the Abstract empty if your article falls under any of the following categories: Editorial Book Review, Commentary, Field Grand Challenge, Opinion or specialty Grand Challenge.
 \section{}
-%As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. References should not be cited in the abstract.
-For full guidelines regarding your manuscript please refer to \href{http://www.frontiersin.org/about/AuthorGuidelines}{Author Guidelines} \\ or \textbf{Table \ref{Tab:01}} for a summary according to article type.
+Music tends to exhibit structure at multiple scales, ranging from measures and small motifs to large-scale functional components. When inferring the structure of a piece, different listeners may attend to different temporal scales, which can result in disagreements when multiple annotators describe the same piece. By quantifying these disagreements, previous research has yielded several insights relevant to the study of music cognition: annotators tend to agree when quantifying the degree of ambiguity of music segment boundaries [Bruderer, 2008]; this ambiguity seems to depend on musical features, time scale, and genre [Smith, Ching-Hua, and Chew, 2014]; it is possible to tune current evaluation metrics to better align with these perceptual differences [Nieto, Farbood, Jehan, and Bello, 2014]. However, previous work has been unable to directly analyze the effects of hierarchical structure since the existing methods for comparing structural annotations do not readily generalize to hierarchical annotations.
 
-
+In this manuscript, we extend and generalize previous work on hierarchical segment boundary evaluation [McFee, Nieto, and Bello, 2015]. We derive a general family of evaluation metrics which can compare hierarchical annotations in terms of both boundary detection and segment label agreement. Using these metrics, we investigate inter-annotator agreement on the multi-level annotations of the SPAM and SALAMI corpora, and measure baseline performance of a variety of commonly used segmentation algorithms.
 \tiny
- \keyFont{ \section{Keywords:} Text Text Text Text Text Text Text Text } %All article types: you may provide up to 8 keywords; at least 5 are mandatory.
+ \keyFont{ \section{Keywords:} structure, hierarchy, evaluation} %All article types: you may provide up to 8 keywords; at least 5 are mandatory.
 \end{abstract}
 
 \section{Introduction}
