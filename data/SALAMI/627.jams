@@ -1,0 +1,1177 @@
+{
+  "file_metadata": {
+    "duration": 148.12254000000001,
+    "jams_version": "0.2.1",
+    "artist": "Aretha_Franklin",
+    "identifiers": {},
+    "release": "",
+    "title": "Try_Matty__s"
+  },
+  "annotations": [
+    {
+      "duration": null,
+      "namespace": "segment_salami_function",
+      "time": 0,
+      "data": [
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.13932,
+          "value": "silence"
+        },
+        {
+          "confidence": null,
+          "time": 0.13932,
+          "duration": 10.03102,
+          "value": "intro"
+        },
+        {
+          "confidence": null,
+          "time": 10.170340000000001,
+          "duration": 27.558821000000002,
+          "value": "verse"
+        },
+        {
+          "confidence": null,
+          "time": 37.729161000000005,
+          "duration": 27.200930000000003,
+          "value": "verse"
+        },
+        {
+          "confidence": null,
+          "time": 64.930091,
+          "duration": 26.951134000000003,
+          "value": "solo"
+        },
+        {
+          "confidence": null,
+          "time": 91.881224,
+          "duration": 22.600408,
+          "value": "chorus"
+        },
+        {
+          "confidence": null,
+          "time": 114.481633,
+          "duration": 26.847302000000003,
+          "value": "outro"
+        },
+        {
+          "confidence": null,
+          "time": 141.328934,
+          "duration": 6.7447170000000005,
+          "value": "fade-out"
+        },
+        {
+          "confidence": null,
+          "time": 148.073651,
+          "duration": 0.048889,
+          "value": "silence"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "2",
+          "submission_date": "2010-08-23"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "segment_salami_upper",
+      "time": 0,
+      "data": [
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.13932,
+          "value": "Silence"
+        },
+        {
+          "confidence": null,
+          "time": 0.13932,
+          "duration": 10.03102,
+          "value": "N"
+        },
+        {
+          "confidence": null,
+          "time": 10.170340000000001,
+          "duration": 27.558821000000002,
+          "value": "A"
+        },
+        {
+          "confidence": null,
+          "time": 37.729161000000005,
+          "duration": 27.200930000000003,
+          "value": "A"
+        },
+        {
+          "confidence": null,
+          "time": 64.930091,
+          "duration": 26.951134000000003,
+          "value": "A"
+        },
+        {
+          "confidence": null,
+          "time": 91.881224,
+          "duration": 22.600409000000003,
+          "value": "B"
+        },
+        {
+          "confidence": null,
+          "time": 114.481633,
+          "duration": 33.592018,
+          "value": "C"
+        },
+        {
+          "confidence": null,
+          "time": 148.073651,
+          "duration": 0.048889,
+          "value": "Silence"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "2",
+          "submission_date": "2010-08-23"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "segment_salami_lower",
+      "time": 0,
+      "data": [
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.13932,
+          "value": "Silence"
+        },
+        {
+          "confidence": null,
+          "time": 0.13932,
+          "duration": 10.03102,
+          "value": "n"
+        },
+        {
+          "confidence": null,
+          "time": 10.170340000000001,
+          "duration": 9.18356,
+          "value": "a"
+        },
+        {
+          "confidence": null,
+          "time": 19.3539,
+          "duration": 9.200907,
+          "value": "b"
+        },
+        {
+          "confidence": null,
+          "time": 28.554807,
+          "duration": 9.174354000000001,
+          "value": "c"
+        },
+        {
+          "confidence": null,
+          "time": 37.729161000000005,
+          "duration": 9.015918000000001,
+          "value": "a"
+        },
+        {
+          "confidence": null,
+          "time": 46.745079000000004,
+          "duration": 9.095556,
+          "value": "b"
+        },
+        {
+          "confidence": null,
+          "time": 55.840635000000006,
+          "duration": 9.089456,
+          "value": "c"
+        },
+        {
+          "confidence": null,
+          "time": 64.930091,
+          "duration": 9.001814000000001,
+          "value": "a"
+        },
+        {
+          "confidence": null,
+          "time": 73.931905,
+          "duration": 9.046077,
+          "value": "b"
+        },
+        {
+          "confidence": null,
+          "time": 82.97798200000001,
+          "duration": 8.903243,
+          "value": "c"
+        },
+        {
+          "confidence": null,
+          "time": 91.881224,
+          "duration": 4.462222000000001,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 96.34344700000001,
+          "duration": 4.609478,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 100.95292500000001,
+          "duration": 4.482245000000001,
+          "value": "e"
+        },
+        {
+          "confidence": null,
+          "time": 105.43517000000001,
+          "duration": 4.58161,
+          "value": "d'"
+        },
+        {
+          "confidence": null,
+          "time": 110.01678000000001,
+          "duration": 4.464853000000001,
+          "value": "d'"
+        },
+        {
+          "confidence": null,
+          "time": 114.481633,
+          "duration": 4.573764000000001,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 119.05539700000001,
+          "duration": 4.449048,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 123.504444,
+          "duration": 4.415034,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 127.91947800000001,
+          "duration": 4.464422,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 132.3839,
+          "duration": 4.496281000000001,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 136.88018100000002,
+          "duration": 4.448753,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 141.328934,
+          "duration": 6.7447170000000005,
+          "value": "d"
+        },
+        {
+          "confidence": null,
+          "time": 148.073651,
+          "duration": 0.048889,
+          "value": "Silence"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "2",
+          "submission_date": "2010-08-23"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "segment_salami_function",
+      "time": 0,
+      "data": [
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.11610000000000001,
+          "value": "silence"
+        },
+        {
+          "confidence": null,
+          "time": 0.11610000000000001,
+          "duration": 10.254579999,
+          "value": "intro"
+        },
+        {
+          "confidence": null,
+          "time": 10.37068,
+          "duration": 27.270703,
+          "value": "verse"
+        },
+        {
+          "confidence": null,
+          "time": 37.641383000000005,
+          "duration": 27.209569000000002,
+          "value": "verse"
+        },
+        {
+          "confidence": null,
+          "time": 64.850952,
+          "duration": 27.01229,
+          "value": "solo"
+        },
+        {
+          "confidence": null,
+          "time": 91.86324300000001,
+          "duration": 22.626032000000002,
+          "value": "no_function"
+        },
+        {
+          "confidence": null,
+          "time": 114.48927400000001,
+          "duration": 26.815510000000003,
+          "value": "outro"
+        },
+        {
+          "confidence": null,
+          "time": 141.304785,
+          "duration": 6.81585,
+          "value": "fade-out"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "4",
+          "submission_date": "2010-09-15"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "segment_salami_upper",
+      "time": 0,
+      "data": [
+        {
+          "confidence": NaN,
+          "time": 0.0,
+          "duration": 0.11610000000000001,
+          "value": "Silence"
+        },
+        {
+          "confidence": NaN,
+          "time": 0.11610000000000001,
+          "duration": 10.254579999,
+          "value": "A"
+        },
+        {
+          "confidence": NaN,
+          "time": 10.37068,
+          "duration": 27.270703,
+          "value": "B"
+        },
+        {
+          "confidence": NaN,
+          "time": 37.641383000000005,
+          "duration": 27.209569000000002,
+          "value": "B"
+        },
+        {
+          "confidence": NaN,
+          "time": 64.850952,
+          "duration": 27.012291,
+          "value": "C"
+        },
+        {
+          "confidence": NaN,
+          "time": 91.86324300000001,
+          "duration": 22.626032000000002,
+          "value": "D"
+        },
+        {
+          "confidence": NaN,
+          "time": 114.48927400000001,
+          "duration": 33.631361000000005,
+          "value": "E"
+        },
+        {
+          "confidence": 0.0,
+          "time": 148.12063500000002,
+          "duration": 0.0019050000000000002,
+          "value": "Z'''"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "4",
+          "submission_date": "2010-09-15"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "segment_salami_lower",
+      "time": 0,
+      "data": [
+        {
+          "confidence": NaN,
+          "time": 0.0,
+          "duration": 0.11610000000000001,
+          "value": "Silence"
+        },
+        {
+          "confidence": NaN,
+          "time": 0.11610000000000001,
+          "duration": 10.254579999,
+          "value": "a"
+        },
+        {
+          "confidence": NaN,
+          "time": 10.37068,
+          "duration": 8.985556,
+          "value": "b"
+        },
+        {
+          "confidence": NaN,
+          "time": 19.356236000000003,
+          "duration": 9.197755,
+          "value": "c"
+        },
+        {
+          "confidence": NaN,
+          "time": 28.553991000000003,
+          "duration": 9.087392000000001,
+          "value": "d"
+        },
+        {
+          "confidence": NaN,
+          "time": 37.641383000000005,
+          "duration": 9.033265,
+          "value": "b"
+        },
+        {
+          "confidence": NaN,
+          "time": 46.674649,
+          "duration": 9.17576,
+          "value": "c"
+        },
+        {
+          "confidence": NaN,
+          "time": 55.850408,
+          "duration": 9.000544000000001,
+          "value": "d"
+        },
+        {
+          "confidence": NaN,
+          "time": 64.850952,
+          "duration": 9.085193,
+          "value": "b"
+        },
+        {
+          "confidence": NaN,
+          "time": 73.93614500000001,
+          "duration": 8.990317000000001,
+          "value": "c"
+        },
+        {
+          "confidence": NaN,
+          "time": 82.926463,
+          "duration": 8.93678,
+          "value": "d"
+        },
+        {
+          "confidence": NaN,
+          "time": 91.86324300000001,
+          "duration": 9.033152000000001,
+          "value": "b'"
+        },
+        {
+          "confidence": NaN,
+          "time": 100.89639500000001,
+          "duration": 13.592880000000001,
+          "value": "c'"
+        },
+        {
+          "confidence": NaN,
+          "time": 114.48927400000001,
+          "duration": 8.972381,
+          "value": "b''"
+        },
+        {
+          "confidence": NaN,
+          "time": 123.46165500000001,
+          "duration": 9.123107000000001,
+          "value": "b''"
+        },
+        {
+          "confidence": NaN,
+          "time": 132.584762,
+          "duration": 8.720023000000001,
+          "value": "b''"
+        },
+        {
+          "confidence": NaN,
+          "time": 141.304785,
+          "duration": 6.81585,
+          "value": "b''"
+        },
+        {
+          "confidence": 0.0,
+          "time": 148.12063500000002,
+          "duration": 0.0019050000000000002,
+          "value": "z'''"
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "4",
+          "submission_date": "2010-09-15"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "multi_segment",
+      "time": 0,
+      "data": [
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.13932,
+          "value": {
+            "label": "Silence",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 0.13932,
+          "duration": 10.03102,
+          "value": {
+            "label": "N",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 10.170340000000001,
+          "duration": 27.558821000000002,
+          "value": {
+            "label": "A",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 37.729161000000005,
+          "duration": 27.200930000000003,
+          "value": {
+            "label": "A",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 64.930091,
+          "duration": 26.951134000000003,
+          "value": {
+            "label": "A",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 91.881224,
+          "duration": 22.600409000000003,
+          "value": {
+            "label": "B",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 114.481633,
+          "duration": 33.592018,
+          "value": {
+            "label": "C",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 148.073651,
+          "duration": 0.048889,
+          "value": {
+            "label": "Silence",
+            "level": 0
+          }
+        },
+        {
+          "confidence": null,
+          "time": 0.0,
+          "duration": 0.13932,
+          "value": {
+            "label": "Silence",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 0.13932,
+          "duration": 10.03102,
+          "value": {
+            "label": "n",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 10.170340000000001,
+          "duration": 9.18356,
+          "value": {
+            "label": "a",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 19.3539,
+          "duration": 9.200907,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 28.554807,
+          "duration": 9.174354000000001,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 37.729161000000005,
+          "duration": 9.015918000000001,
+          "value": {
+            "label": "a",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 46.745079000000004,
+          "duration": 9.095556,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 55.840635000000006,
+          "duration": 9.089456,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 64.930091,
+          "duration": 9.001814000000001,
+          "value": {
+            "label": "a",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 73.931905,
+          "duration": 9.046077,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 82.97798200000001,
+          "duration": 8.903243,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 91.881224,
+          "duration": 4.462222000000001,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 96.34344700000001,
+          "duration": 4.609478,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 100.95292500000001,
+          "duration": 4.482245000000001,
+          "value": {
+            "label": "e",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 105.43517000000001,
+          "duration": 4.58161,
+          "value": {
+            "label": "d'",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 110.01678000000001,
+          "duration": 4.464853000000001,
+          "value": {
+            "label": "d'",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 114.481633,
+          "duration": 4.573764000000001,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 119.05539700000001,
+          "duration": 4.449048,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 123.504444,
+          "duration": 4.415034,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 127.91947800000001,
+          "duration": 4.464422,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 132.3839,
+          "duration": 4.496281000000001,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 136.88018100000002,
+          "duration": 4.448753,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 141.328934,
+          "duration": 6.7447170000000005,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": null,
+          "time": 148.073651,
+          "duration": 0.048889,
+          "value": {
+            "label": "Silence",
+            "level": 1
+          }
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "2",
+          "submission_date": "2010-08-23"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    },
+    {
+      "duration": null,
+      "namespace": "multi_segment",
+      "time": 0,
+      "data": [
+        {
+          "confidence": NaN,
+          "time": 0.0,
+          "duration": 0.11610000000000001,
+          "value": {
+            "label": "Silence",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 0.11610000000000001,
+          "duration": 10.254579999,
+          "value": {
+            "label": "A",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 10.37068,
+          "duration": 27.270703,
+          "value": {
+            "label": "B",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 37.641383000000005,
+          "duration": 27.209569000000002,
+          "value": {
+            "label": "B",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 64.850952,
+          "duration": 27.012291,
+          "value": {
+            "label": "C",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 91.86324300000001,
+          "duration": 22.626032000000002,
+          "value": {
+            "label": "D",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 114.48927400000001,
+          "duration": 33.631361000000005,
+          "value": {
+            "label": "E",
+            "level": 0
+          }
+        },
+        {
+          "confidence": 0.0,
+          "time": 148.12063500000002,
+          "duration": 0.0019050000000000002,
+          "value": {
+            "label": "Z'''",
+            "level": 0
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 0.0,
+          "duration": 0.11610000000000001,
+          "value": {
+            "label": "Silence",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 0.11610000000000001,
+          "duration": 10.254579999,
+          "value": {
+            "label": "a",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 10.37068,
+          "duration": 8.985556,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 19.356236000000003,
+          "duration": 9.197755,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 28.553991000000003,
+          "duration": 9.087392000000001,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 37.641383000000005,
+          "duration": 9.033265,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 46.674649,
+          "duration": 9.17576,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 55.850408,
+          "duration": 9.000544000000001,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 64.850952,
+          "duration": 9.085193,
+          "value": {
+            "label": "b",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 73.93614500000001,
+          "duration": 8.990317000000001,
+          "value": {
+            "label": "c",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 82.926463,
+          "duration": 8.93678,
+          "value": {
+            "label": "d",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 91.86324300000001,
+          "duration": 9.033152000000001,
+          "value": {
+            "label": "b'",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 100.89639500000001,
+          "duration": 13.592880000000001,
+          "value": {
+            "label": "c'",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 114.48927400000001,
+          "duration": 8.972381,
+          "value": {
+            "label": "b''",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 123.46165500000001,
+          "duration": 9.123107000000001,
+          "value": {
+            "label": "b''",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 132.584762,
+          "duration": 8.720023000000001,
+          "value": {
+            "label": "b''",
+            "level": 1
+          }
+        },
+        {
+          "confidence": NaN,
+          "time": 141.304785,
+          "duration": 6.81585,
+          "value": {
+            "label": "b''",
+            "level": 1
+          }
+        },
+        {
+          "confidence": 0.0,
+          "time": 148.12063500000002,
+          "duration": 0.0019050000000000002,
+          "value": {
+            "label": "z'''",
+            "level": 1
+          }
+        }
+      ],
+      "sandbox": {},
+      "annotation_metadata": {
+        "annotator": {
+          "name": "4",
+          "submission_date": "2010-09-15"
+        },
+        "curator": {
+          "email": "jblsmith@gmail.com",
+          "name": "Jordan Smith"
+        },
+        "annotation_rules": "",
+        "validation": "",
+        "version": "2.0",
+        "corpus": "SALAMI",
+        "data_source": "Codaich",
+        "annotation_tools": "Sonic Visualizer"
+      }
+    }
+  ],
+  "sandbox": {}
+}
